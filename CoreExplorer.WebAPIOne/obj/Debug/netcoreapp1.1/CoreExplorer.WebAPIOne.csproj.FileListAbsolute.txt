@@ -1,0 +1,8 @@
+F:\_Development\CoreExplorer\CoreExplorer.WebAPIOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebAPIOne.deps.json
+F:\_Development\CoreExplorer\CoreExplorer.WebAPIOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebAPIOne.runtimeconfig.json
+F:\_Development\CoreExplorer\CoreExplorer.WebAPIOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebAPIOne.runtimeconfig.dev.json
+F:\_Development\CoreExplorer\CoreExplorer.WebAPIOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebAPIOne.dll
+F:\_Development\CoreExplorer\CoreExplorer.WebAPIOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebAPIOne.pdb
+F:\_Development\CoreExplorer\CoreExplorer.WebAPIOne\obj\Debug\netcoreapp1.1\CoreExplorer.WebAPIOne.AssemblyInfo.cs
+F:\_Development\CoreExplorer\CoreExplorer.WebAPIOne\obj\Debug\netcoreapp1.1\CoreExplorer.WebAPIOne.dll
+F:\_Development\CoreExplorer\CoreExplorer.WebAPIOne\obj\Debug\netcoreapp1.1\CoreExplorer.WebAPIOne.pdb

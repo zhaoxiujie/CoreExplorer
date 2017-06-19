@@ -1,0 +1,9 @@
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.deps.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.runtimeconfig.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.runtimeconfig.dev.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.dll
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.pdb
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.csprojResolveAssemblyReference.cache
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.AssemblyInfo.cs
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.dll
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationOne\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplicationOne.pdb
