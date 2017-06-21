@@ -1,0 +1,8 @@
+F:\_Development\CoreExplorer\CoreExplorer.WebApplication1\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplication1.deps.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplication1\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplication1.runtimeconfig.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplication1\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplication1.runtimeconfig.dev.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplication1\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplication1.dll
+F:\_Development\CoreExplorer\CoreExplorer.WebApplication1\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplication1.AssemblyInfo.cs
+F:\_Development\CoreExplorer\CoreExplorer.WebApplication1\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplication1.pdb
+F:\_Development\CoreExplorer\CoreExplorer.WebApplication1\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplication1.dll
+F:\_Development\CoreExplorer\CoreExplorer.WebApplication1\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplication1.pdb

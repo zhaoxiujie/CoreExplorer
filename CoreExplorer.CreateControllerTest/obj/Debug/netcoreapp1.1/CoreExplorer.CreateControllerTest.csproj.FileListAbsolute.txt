@@ -1,0 +1,9 @@
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\bin\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.deps.json
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\bin\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.runtimeconfig.json
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\bin\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.runtimeconfig.dev.json
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\bin\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.dll
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\obj\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.AssemblyInfo.cs
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\obj\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.csprojResolveAssemblyReference.cache
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\bin\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.pdb
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\obj\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.dll
+F:\_Development\CoreExplorer\CoreExplorer.CreateControllerTest\obj\Debug\netcoreapp1.1\CoreExplorer.CreateControllerTest.pdb

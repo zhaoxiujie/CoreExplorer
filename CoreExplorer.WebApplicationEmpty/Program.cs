@@ -15,7 +15,7 @@ namespace CoreExplorer.WebApplicationEmpty
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseIISIntegration()
-                .UseStartup<StartupDevelopment>()
+                .UseStartup<Startup>()
                 .UseApplicationInsights()
                 .Build();
 

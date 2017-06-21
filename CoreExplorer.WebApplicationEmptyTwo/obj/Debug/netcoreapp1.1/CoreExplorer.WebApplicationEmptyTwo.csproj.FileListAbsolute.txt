@@ -1,0 +1,9 @@
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.deps.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.runtimeconfig.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.runtimeconfig.dev.json
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.dll
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.csprojResolveAssemblyReference.cache
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.AssemblyInfo.cs
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\bin\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.pdb
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.dll
+F:\_Development\CoreExplorer\CoreExplorer.WebApplicationEmptyTwo\obj\Debug\netcoreapp1.1\CoreExplorer.WebApplicationEmptyTwo.pdb
